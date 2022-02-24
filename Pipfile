@@ -95,6 +95,7 @@ Pillow = "==9.0.1"
 Pygments = "==2.11.2"
 Pympler = "==1.0.1"
 Send2Trash = "==1.8.0"
+matplotlib = "*"
 
 [dev-packages]
 
